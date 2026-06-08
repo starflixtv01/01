@@ -1,0 +1,7 @@
+_work/
+*.bak
+preview_full.png
+ChatGPT Image*.png
+node_modules/
+.DS_Store
+Thumbs.db
